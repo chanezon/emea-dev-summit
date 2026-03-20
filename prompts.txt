@@ -1,6 +1,5 @@
-I am giving a 40 min talk at EMEA Dev Summit 2026 about the transformation of the developer role with AI Agents.
-Title: "Developers in the Age of Agents: What Changes, What Doesn’t"
-Abstract: AI coding agents have made significant progress in the last 6 months, completely transforming the role of developers: this talk covers some aspects of this transformation. Learning to manage teams of agents, working at a higher level of abstraction, and developing different hygiene and work habits to survive the AI fatigue that occurs when working with machines that go faster than human colleagues, never get tired, and never sleep.
+I am giving a 40 min talk at EMEA Dev Summit 2026.
+I discussed the title and abstract of the talk in a Microsoft Teams chat with Arlin Ciceki, please use workiq to retrieve them.
 
 For the title slide, create an image following these instructions: a Java developer wearing a JDuchess T-shirt is working on her laptop at the terrace of a Parisian café. It's morning, she is lit by a rising sun. In the distance, the Eiffel Tower is visible. Above her against a blue sky, a gigantic complex and multicolored structure representing a complex software project is being assembled by a swarm of flying robots. They have different shapes and colors, some reminiscent of droids from Star Wars. They use various tools. It is clear that she is controlling this fleet of robots.
 Use the presentation title, and as speakers: Patrick Chanezon, VP Developer Relations, Microsoft.
