@@ -1,0 +1,60 @@
+I am giving a 40 min talk at EMEA Dev Summit 2026 about the transformation of the developer role with AI Agents.
+Title: "Developers in the Age of Agents: What Changes, What Doesn’t"
+Abstract: AI coding agents have made significant progress in the last 6 months, completely transforming the role of developers: this talk covers some aspects of this transformation. Learning to manage teams of agents, working at a higher level of abstraction, and developing different hygiene and work habits to survive the AI fatigue that occurs when working with machines that go faster than human colleagues, never get tired, and never sleep.
+
+For the title slide, create an image following these instructions: a Java developer wearing a JDuchess T-shirt is working on her laptop at the terrace of a Parisian café. It's morning, she is lit by a rising sun. In the distance, the Eiffel Tower is visible. Above her against a blue sky, a gigantic complex and multicolored structure representing a complex software project is being assembled by a swarm of flying robots. They have different shapes and colors, some reminiscent of droids from Star Wars. They use various tools. It is clear that she is controlling this fleet of robots.
+Use the presentation title, and as speakers: Patrick Chanezon, VP Developer Relations, Microsoft.
+
+After the agenda slide add a slide titled "Teaching an old dog new tricks" with illustration image linkedin-dog.jpg.
+
+Add a slide about Karpathy's post https://x.com/karpathy/status/2015883857489522876?s=20 quoting the TL;DR section including the url of the Tweet with a hyperlink to the source and an image with Karpathy's Twitter profile. Title of the slide is "With AI Coding Agents getting better, the role of Developer is changing now".
+
+add a slide titled "AI Agent's rate of progress is accelerating" with images/star-wars-acceleration.jpg 
+
+I wrote a blog post about the transformation of the developer role with AI Agents at https://blog.chanezon.com/2025/11/07/devrel-evolution-with-ai-agents.html
+Use this post as the basis for the presentation, especially the section of the post titled "Developers become managers of AI Agents". Read the articles referenced in the post and create slides for the most important articles and themes, such as frontier firm, what got you here won't get you there.
+
+Add a section about the impact of AI for early in career developers.
+One slide with the finding from Canaries in the Coal Mine? by Brynjolfsson et al., including the graphics cited in my blog post.
+Then one slide on Scott Hanselman and Mark Russinovich preceptorship program described in https://dl.acm.org/doi/abs/10.1145/3779312
+
+Add a section about the AI Fatigue effect.
+For this section read the articles below:
+https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
+https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163
+https://simonwillison.net/2026/Feb/9/ai-intensifies-work/
+
+Create 2 slides on the HBR paper https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry
+One on the diagnostic with the diagram: "which function report ai brain fry" and the quote "Among workers who did not report AI brain fry, 25% showed active intent to leave. Among those who did report AI brain fry, that rose to 34%. This represents a 39% increase in active worker intent to leave among top users of AI."
+One on lessons for leaders.
+
+Then create 2 slides on Siddhant's post, one on the diagnosis, one on best practices he recommends to avoid burnout. Use sentences from the block below.
+https://siddhantkhare.com/writing/ai-fatigue-is-real
+---
+"When each task takes less time, you don't do fewer tasks. You do more tasks.
+jevons paradox
+
+This is the paradox: AI reduces the cost of production but increases the cost of coordination, review, and decision-making. And those costs fall entirely on the human.
+how could software help?
+
+Before AI, my job was: think about a problem, write code, test it, ship it. I was the creator. The maker. That's what drew most of us to engineering in the first place - the act of building.
+t. I became a reviewer. A judge. A quality inspector on an assembly line that never stops.
+
+Creating is energizing. Reviewing is draining. There's research on this - the psychological difference between generative tasks and evaluative tasks. Generative work gives you flow states. Evaluative work gives you decision fatigue.
+
+you are collaborating with a probabilistic system, and your brain is wired for deterministic ones.
+
+Build on the layer that doesn't churn.
+
+I call this the prompt spiral. It's the AI equivalent of yak shaving.
+
+I now have a hard rule: three attempts. If the AI doesn't get me to 70% usable in three prompts, I write it myself.
+
+The ratio of signal to anxiety matters. If a feed is making you feel behind instead of informed, it's not serving you.
+
+With the understanding that I am not a machine and I don't need to keep pace with one"
+---
+
+conclude with a slide titled: "AI Coding Agents create a golden age of programming"
+Include Knuth quote from my blog post: "Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do", with image of Knuth's book cover.
+
