@@ -1,0 +1,7 @@
+a few issues to fix: dog slide aspect ration is wrong. slide 8 no need to repeat the 3 phases that
+are on the image in text: just use the image. slides 11 to 19 chose images from the blog posts to
+illustrate the slides. manager of agent section create more slides based on the papers mentioned in
+the blog post, about adoption of agents by devs, how the role is shifting, what skills do devs need
+to acquire, and spec driven development.
+store the js file to generate the presentation in the repository.
+
